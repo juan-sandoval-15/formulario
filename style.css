@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    background-color: beige;
+    height: 50vh;
+}
+.lottie{
+    background-color: beige;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
